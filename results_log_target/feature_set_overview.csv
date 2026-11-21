@@ -1,0 +1,6 @@
+set,features,meals,participants,missing_cells,missing_pct
+M1,4,1139,43,18,0.4
+M2,19,1139,43,386,1.78
+M3,29,1139,43,448,1.36
+M3_gutmatched,29,1055,40,419,1.37
+M4,51,1055,40,419,0.78
